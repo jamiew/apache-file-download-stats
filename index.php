@@ -36,7 +36,7 @@ if (is_readable($log_file)) {
 	*/
 
 	print "<html><body>\n";
-	print "<h1>jamiedubs.com top $max files</h1>\n";
+	print "<h1>jamiedubs.com top $max files today</h1>\n";
 	print "<table>\n";
 	print "<thead><th class='rank'></th><th class='count'>Hits</th><th class='url'>URL</th></thead>\n";
 	print "<tbody>\n";

@@ -1,0 +1,11 @@
+h1. Apache File Download Stats
+
+A really simple PHP script to parse my website's apache2 logs and
+turn it into a list of "Top Downloaded Files Today":http://jamiedubs.com/stats
+
+Based on code from "@theowatson":http://github.com/theowatson
+
+h2. License
+
+Source code released under an MIT license. Pull requests welcome.
+
